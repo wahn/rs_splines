@@ -5,4 +5,4 @@ authors = ["Jan Walter <jan@janwalter.com>"]
 
 [dependencies]
 nalgebra = "0.5"
-path = { path = "../path" }
+path = { git = "https://github.com/wahn/rs_path.git" }
