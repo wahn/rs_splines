@@ -1,0 +1,8 @@
+[package]
+name = "splines"
+version = "0.1.0"
+authors = ["Jan Walter <jan@janwalter.com>"]
+
+[dependencies]
+nalgebra = "0.5"
+path = { path = "../path" }
